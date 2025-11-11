@@ -10,7 +10,7 @@ const WhatsappLayout = () => {
       <div className="flex h-screen bg-gray-100">
         {/* sidebar */}
         <div className="w-1/4 bg-gray-800 text-white flex flex-col">
-          <div className="p-4 font-bold text-lg border-b border-gray-700">
+          <div className="p-5 font-bold text-lg border-b border-gray-700">
             Whatsapp UI
           </div>
           <div className="flex-1 overflow-y-auto">
