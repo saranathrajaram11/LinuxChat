@@ -31,7 +31,7 @@ const WhatsappLayout = () => {
                 <FaGripLinesVertical />
                 <IoCallOutline className="cursor-pointer" />
               </div>
-              <HiOutlineDotsVertical className="text-3xl" />
+              <HiOutlineDotsVertical className="text-2xl" />
             </div>
           </div>
 
